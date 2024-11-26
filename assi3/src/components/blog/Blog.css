@@ -1,0 +1,22 @@
+.blog-container{
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+width: 80%;
+column-gap: 50px;
+justify-self: center;
+}
+.BlogCard{
+    /* border-radius: 2%; */
+    /* box-shadow: 0px 0px 5px #413838 */
+}
+.BlogCard img{
+    width: -webkit-fill-available;
+}
+.BlogCard .titleDiv{
+    font-size: 24px;
+    font-weight: 600;
+}
+.BlogCard .descDiv{
+    font-size: 1.3rem;
+    padding: 30px 0px;
+}

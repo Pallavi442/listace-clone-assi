@@ -1,0 +1,20 @@
+.nav-container{
+    width: 100%;
+    float: right;
+}
+.nav-container, ul li a{
+    color: #fff;
+  }
+  
+ul li a:hover{
+  color: red;
+}
+
+ul li a:active{
+  color: red!important;
+}
+
+.active-link {
+  color: red !important;
+  font-weight: bold;
+}

@@ -1,0 +1,4 @@
+section > div:first-of-type {
+    position: relative;
+    top: 30px;
+}

@@ -1,0 +1,19 @@
+.work-container .title{
+    font-size: 24px;
+    font-weight: 600;
+    opacity: .5;
+    margin-top: 1rem;
+}
+
+.work-container:hover{
+    background: red;
+    color: #fff;
+}
+
+.work-container,.icons{
+    background: #18080845;
+    border-radius: 50%;
+    padding: 9px;
+    width: 27%;
+    height: 15%;
+}

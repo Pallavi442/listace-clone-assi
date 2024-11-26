@@ -1,0 +1,25 @@
+.explore-container{display: grid;
+grid-template-columns: repeat(3, 1fr);
+}
+
+    .exploreTitle{
+        font-size: 21px;
+        font-weight: 500;
+    }
+    .ExploreBtnLabel{
+        background-color: #fff;
+        border: none;
+    }
+    .mainratingsec{
+        font-size: 14px;
+    }
+    .rating{
+        background: green;
+        color: #fff;
+        border-radius: 7px;
+    }
+   .exploreDesc{
+    font-size: 14px;
+   }
+
+   
